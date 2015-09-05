@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforhuntsville/Recovers.png?label=ready&title=Ready)](https://waffle.io/codeforhuntsville/Recovers)
 # Recovers
 Recovers is a clean, easy-to-use recovery software framework that can be deployed before a disaster to prepare communities.
 
